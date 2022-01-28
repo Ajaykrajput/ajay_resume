@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Ajay Kumar",
+    "occupation": "CEO of NEXTECH",
+    "description": "I like to make pretty things with React",
+    "image": "realprofile.jpg",
+    "bio": "Hi there ! I am Ajay ! You might also know me as React Developer. I've been coding for over 3 years now. As a Front-end developer I've worked both with startups and as well as Freelancing to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. I deliver REAL VALUE & REAL WORLD projects to help my Users to enter the Seemless world of web development. I’ll get hands-on my experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the NEXTECH!",
+    "email": "ajayrajput7rcr@gmail.com",
+    "phone": "+91 7037287176",
+    "address": {
+      "street": "518 Tilak Nager",
+      "city": "Firozabad",
+      "state": "UTTAR PRADESH",
+      "zip": "283203"
+    },
+    "website": "https://www.managekaro.com",
+    "resumedownload": "https://docs.google.com/document/d/1Z_VMcuqEdTP5wEeD2VD5SvUTXVLgkzaYZddwRh8L2i8/edit?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ajayrajput10795",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ajayrajput10795",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ajayrajput10795/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Ajaykrajput",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Agra University - Agra",
+        "degree": "Bachelor's & Master's Degree, Mathematical Science",
+        "graduated": "July 2016 and 2018 respectively",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "NEXTECH",
+        "title": "Founder and CEO",
+        "years": "May 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to learn and skill-up myself! Contribute in NEXTECH as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "ReactNative",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Meals To Go (React Native)",
+        "category": "",
+        "image": "mealstogo.jpg",
+        "url": "https://expo.dev/@designerpanda/MealsToGo"
+      },
+      {
+        "title": "ToDo Firebase (React JS)",
+        "category": "",
+        "image": "todofirebase.jpg",
+        "url": "https://todo-firebase-4f04c.web.app/"
+      },
+      {
+        "title": "RoboFriends (React JS)",
+        "category": "",
+        "image": "robofriends.jpg",
+        "url": "https://ajaykrajput.github.io/newrobots/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ajay is absolutely excellent person, his dedication for learning and skill-up knowledge really meant a lot to us...",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Ajay has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
