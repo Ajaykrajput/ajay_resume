@@ -4,9 +4,9 @@ import TypeWriter from "react-typewriter";
 const Header = ({ data }) => {
   if (data) {
     var name = data.name;
-    var occupation = data.occupation;
+    // var occupation = data.occupation;
     var description = data.description;
-    var city = data.address.city;
+    // var city = data.address.city;
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -73,7 +73,9 @@ const Header = ({ data }) => {
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
-          <h3><span>{description}.</span></h3>
+          <h3>
+            <span>{description}.</span>
+          </h3>
         </div>
       </div>
 
