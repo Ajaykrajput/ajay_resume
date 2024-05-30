@@ -5,7 +5,7 @@
     "description": "I like to make pretty things with React",
     "image": "realprofile.jpg",
     "bio": "Hi there ! I am Ajay ! You might also know me as React Developer. I've been coding for over 3 years now. As a Front-end developer I've worked both with startups and as well as Freelancing to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. I deliver REAL VALUE & REAL WORLD projects to help my Users to enter the Seemless world of web development. I’ll get hands-on my experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the NEXTECH!",
+    "contactmessage": "Get in touch with me to be a part of my journey!",
     "email": "ajayrajput7rcr@gmail.com",
     "phone": "+91 7037287176",
     "address": {
@@ -15,7 +15,7 @@
       "zip": "283203"
     },
     "website": "https://www.managekaro.com",
-    "resumedownload": "https://docs.google.com/document/d/1Z_VMcuqEdTP5wEeD2VD5SvUTXVLgkzaYZddwRh8L2i8/edit?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1of0e2xGVYUk7n_sbbRb_VY0wrrQtbCwYcC6NX9YAAnA/edit?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/ajayrajput10795",
+        "url": "https://www.linkedin.com/in/ajaykrajput/",
         "className": "fa fa-linkedin"
       },
       {
@@ -51,10 +51,10 @@
     ],
     "work": [
       {
-        "company": "NEXTECH",
-        "title": "Founder and CEO",
-        "years": "May 2021 - Present",
-        "description": "Cloning all the apps possible. On the way to learn and skill-up myself! Contribute in NEXTECH as large as possible."
+        "company": "Epek Software Solutions",
+        "title": "SDE",
+        "years": "April 2022 - Present",
+        "description": "As a passionate frontend developer at Epek Software Solutions since April 2022, I have consistently delivered high-quality software solutions, leveraging my proficiency in HTML/CSS, TailwindCSS, JavaScript/TypeScript, React.Js, and Next.Js. My technical expertise extends to utilizing ContextApi, Hooks, and Redux/Toolkit for improved code efficiency and functionality, along with a solid understanding of MongoDB, Express.js, Node.js, and JavaScript OOPs for backend development. I am experienced in using Git/GitHub, Webpack, and VS Code for efficient version control, and development environment setup. With over three years of demonstrated expertise in software development, I adhere to industry-standard code practices to ensure code quality, scalability, and maintainability. Additionally, I possess strong teamwork and communication skills, committed to delivering high-quality code and collaborating effectively with cross-functional teams. I am now seeking new opportunities to contribute and grow in a dynamic work environment."
       }
     ],
     "skills": [
@@ -64,15 +64,27 @@
       },
       {
         "name": "ReactNative",
-        "level": "85%"
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
         "level": "99%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "75%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
       },
       {
         "name": "Web Development",
@@ -83,10 +95,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Meals To Go (React Native)",
+        "title": "Managekaro.com (ReactJS)",
         "category": "",
-        "image": "mealstogo.jpg",
-        "url": "https://expo.dev/@designerpanda/MealsToGo"
+        "image": "managekaropfp.png",
+        "url": "https://managekaro.com/"
+      },
+      {
+        "title": "Landing Page (ReactJS)",
+        "category": "",
+        "image": "landingpage.png",
+        "url": "https://dummy-landing-page-two.vercel.app/"
       },
       {
         "title": "ToDo Firebase (React JS)",
@@ -99,6 +117,12 @@
         "category": "",
         "image": "robofriends.jpg",
         "url": "https://ajaykrajput.github.io/newrobots/"
+      },
+      {
+        "title": "Meals To Go (React Native)",
+        "category": "",
+        "image": "mealstogo.jpg",
+        "url": "https://expo.dev/@designerpanda/MealsToGo"
       }
     ]
   },
@@ -106,11 +130,11 @@
     "testimonials": [
       {
         "text": "Ajay is absolutely excellent person, his dedication for learning and skill-up knowledge really meant a lot to us...",
-        "user": "Jorge Fouto"
+        "user": "Mahendra Chaudhary (Epek)"
       },
       {
         "text": "Learning with Ajay has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "user": "Rohit Chauhan (Epek)"
       }
     ]
   }
